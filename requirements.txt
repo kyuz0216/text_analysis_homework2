@@ -1,0 +1,9 @@
+nltk
+gensim
+numpy
+pandas
+jupyter
+notebook
+janome
+beautifulsoup4
+sklearn
