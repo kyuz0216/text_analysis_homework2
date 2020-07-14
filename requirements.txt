@@ -7,3 +7,4 @@ notebook
 janome
 beautifulsoup4
 sklearn
+gensim
