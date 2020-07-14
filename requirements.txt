@@ -8,3 +8,5 @@ janome
 beautifulsoup4
 sklearn
 gensim
+wordcloud
+matplotlib
