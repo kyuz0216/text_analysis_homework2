@@ -2,7 +2,7 @@
 
 ## Description
 火曜2,3限システム論実習「テキスト分析」の課題リポジトリ  
-テキスト分析課題2A -> homework2-1.ipynb
+テキスト分析課題2A -> homework2-1.ipynb  
 テキスト分析課題2B -> homework2-2.ipynb
 
 ## Overview
